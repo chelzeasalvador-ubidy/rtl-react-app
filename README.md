@@ -24,8 +24,12 @@ $ npm run start / yarn start
 $ npm run build / yarn build
 ```
 
-- Launches the test runner in the interactive watch mode.
+- Launches the test script.
 
 ```
 $ npm test
 ```
+
+## Sources
+
+[React Testing Library Tutorial](https://www.freecodecamp.org/news/write-unit-tests-using-react-testing-library/)
